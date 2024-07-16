@@ -17,7 +17,7 @@ Copyright Notice
 
 All images used on this site are the property of their respective owners. They are used here for educational purposes and are not intended for commercial use. If you are the owner of any image and would like it removed, please contact me.
 
-navinrajcsetpt@icloud.com
+navinrajcsetpt@gmail.com
 
 This project helped me improve my web development skills. I hope you find it inspiring!
 
