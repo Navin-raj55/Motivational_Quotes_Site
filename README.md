@@ -11,5 +11,17 @@ CSS: For styling the site and making it visually appealing.
 
 This project helped me improve my web development skills. I hope you find it inspiring!
 
+Copyright Notice
+
+© Navinraj [2024]. All rights reserved.
+
+All images used on this site are the property of their respective owners. They are used here for educational purposes and are not intended for commercial use. If you are the owner of any image and would like it removed, please contact me.
+
+navinrajcsetpt@icloud.com
+
+This project helped me improve my web development skills. I hope you find it inspiring!
+
 Thank you for visiting!
+
+
 
