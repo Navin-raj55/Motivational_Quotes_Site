@@ -5,6 +5,7 @@ I developed this site using basic HTML and CSS for my own educational purposes. 
 
 Technologies Used :
 HTML: For structuring the content.
+
 CSS: For styling the site and making it visually appealing.
 
 This project helped me improve my web development skills. I hope you find it inspiring!
